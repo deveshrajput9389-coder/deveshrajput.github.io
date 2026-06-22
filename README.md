@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 This repository hosts my personal portfolio website, deployed using **GitHub Pages**.  
-👉 Live site: [https://deveshrajput.github.io]
+👉 Live site: [https://deveshrajput9389-coder.github.io/deveshrajput.github.io/]
 
 ## About
 I am **Devesh Rajput**, a B.Tech Computer Science & Engineering student at  
